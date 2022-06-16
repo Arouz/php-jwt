@@ -1,6 +1,6 @@
 <?php
 
-namespace Firebase\JWT;
+namespace Vfork\Firebase\JWT;
 
 use UnexpectedValueException;
 
@@ -10,7 +10,7 @@ use UnexpectedValueException;
  *
  * PHP version 5
  *
- * @package  Firebase\JWT
+ * @package  Vfork\Firebase\JWT
  * @author   Bui Sy Nguyen <nguyenbs@gmail.com>
  * @license  http://opensource.org/licenses/BSD-3-Clause 3-clause BSD
  * @link     https://github.com/fproject/php-jwt
